@@ -13,3 +13,6 @@ Criar uma API (tema livre) com:
  - Testes unitários, usando  banco em memória; :heavy_check_mark: 
   - Teste “mockando” o retorno de uma API de terceiros; -> Ficou faltando 
    - Documentação via Swagger;   :heavy_check_mark:
+
+
+[Arquivo do Postman para teste da API](https://github.com/jpodlasnisky/digisystem/blob/main/Digisystem.postman_collection.json)
